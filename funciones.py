@@ -6,7 +6,7 @@ from collections import Counter
 rows = []
 
 
-#df=pd.read_json('ETLJson.json')
+#df=pd.read_json('ETLJson.json')as
 
 #def JPA(year: str):
  #   if type(year) != str:
